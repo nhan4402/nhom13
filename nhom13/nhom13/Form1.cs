@@ -16,5 +16,18 @@ namespace nhom13
         {
             InitializeComponent();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            if (txtUserName.Text == "admin" && txtPassWord.Text == "admin")
+            {
+                MessageBox.Show("Đăng nhập thành công!");
+            }
+        }
     }
 }
