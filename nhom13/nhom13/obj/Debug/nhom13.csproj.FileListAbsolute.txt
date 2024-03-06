@@ -1,0 +1,9 @@
+D:\code\login\nhom13\nhom13\nhom13\bin\Debug\nhom13.exe.config
+D:\code\login\nhom13\nhom13\nhom13\bin\Debug\nhom13.exe
+D:\code\login\nhom13\nhom13\nhom13\bin\Debug\nhom13.pdb
+D:\code\login\nhom13\nhom13\nhom13\obj\Debug\nhom13.csproj.AssemblyReference.cache
+D:\code\login\nhom13\nhom13\nhom13\obj\Debug\nhom13.Properties.Resources.resources
+D:\code\login\nhom13\nhom13\nhom13\obj\Debug\nhom13.csproj.GenerateResource.cache
+D:\code\login\nhom13\nhom13\nhom13\obj\Debug\nhom13.csproj.CoreCompileInputs.cache
+D:\code\login\nhom13\nhom13\nhom13\obj\Debug\nhom13.exe
+D:\code\login\nhom13\nhom13\nhom13\obj\Debug\nhom13.pdb
