@@ -21,5 +21,13 @@ namespace nhom13
         {
 
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            if (txtUserName.Text == "admin" && txtPassWord.Text == "admin")
+            {
+                MessageBox.Show("Đăng nhập thành công!");
+            }
+        }
     }
 }
